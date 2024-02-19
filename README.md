@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 # 大家好，我是 tkzc00 👋
 
 <table style="border-collapse:collapse;table-layout: fixed;border:0;cellspacing: 0;border-spacing: 0;">
