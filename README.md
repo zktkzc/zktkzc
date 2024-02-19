@@ -5,3 +5,5 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zktkzc&hide_title=true&hide_border=true&layout=compact&locale=cn" />
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zktkzc&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zktkzc" /> </div>
