@@ -6,7 +6,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zktkzc" /> </div>
 
-<span> 
+<div> 
   <img align="center" src="https://skillicons.dev/icons?i=c&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=cs&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=cpp&theme=light" />
@@ -33,6 +33,6 @@
   <img align="center" src="https://skillicons.dev/icons?i=sqlite&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=visualstudio&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" />
-</span>
+</div>
 
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
