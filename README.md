@@ -34,3 +34,5 @@
   <img align="center" src="https://skillicons.dev/icons?i=visualstudio&theme=light" />
   <img align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" />
 </span>
+
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
