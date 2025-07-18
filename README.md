@@ -36,3 +36,6 @@
 </div>
 
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+[//]: # (![]&#40;./profile-3d-contrib/profile-gitblock.svg&#41;)
